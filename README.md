@@ -1,6 +1,11 @@
 # 💫 About Me:
-Final-year Computer Engineering undergraduate<br>Interested in full-stack development and machine learning<br>Building and deploying machine learning models<br>Currently studying distributed and parallel computing<br>Exploring web applications, data science, and cloud computing<br>Open to collaboration on innovative tech projects<br>Always eager to learn new skills and technologies
-
+🎓 Final-year Computer Engineering undergraduate<br>
+💻 Interested in full-stack development and machine learning<br>
+🤖 Building and deploying machine learning models<br>
+⚙️ Currently studying distributed and parallel computing<br>
+🌐 Exploring web applications, data science, and cloud computing<br>
+🤝 Open to collaboration on innovative tech projects<br>
+🚀 Always eager to learn new skills and technologies
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sachintha Dissanayaka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sachintha Dissanayaka) 
