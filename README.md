@@ -1,7 +1,6 @@
 # 💫 About Me:
 🎓 Final-year Computer Engineering undergraduate<br>
 💻 Interested in full-stack development and machine learning<br>
-🤖 Building and deploying machine learning models<br>
 ⚙️ Currently studying distributed and parallel computing<br>
 🌐 Exploring web applications, data science, and cloud computing<br>
 🤝 Open to collaboration on innovative tech projects<br>
